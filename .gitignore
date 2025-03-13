@@ -1,6 +1,5 @@
 # Dependency directories
 node_modules/
-dist/
 
 # Python virtual environment
 venv/
@@ -65,7 +64,6 @@ build/Release
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
